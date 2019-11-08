@@ -41,3 +41,7 @@ ng generate component nomComposant
 or
 
 ng g c nomComposant
+
+## install bootstrap for Angular 8
+
+npm install --save @ng-bootstrap/ng-bootstrap
